@@ -3,16 +3,16 @@ Start Vite+Quasar App
 
 ## Características
 
-###Vite
+### Vite
 Substituto para o webpack criado por Eva You (que desenvolveu o Vue). https://vitejs.dev/
 
-###Quasar
+### Quasar
 Biblioteca de componentes baseada nas especificações do Marterial Design. https://quasar.dev/
 
-###Pinia
+### Pinia
 Substituto para o vuex. Documentação em https://pinia.esm.dev/
 
-###vue-plugin-pages
+### vue-plugin-pages
 Roteamento baseado em arquivos para Vue 3 e Vite. https://github.com/hannoeru/vite-plugin-pages
 
 
