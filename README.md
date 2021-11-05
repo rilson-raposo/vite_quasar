@@ -15,6 +15,9 @@ Substituto para o vuex. Documentação em https://pinia.esm.dev/
 ### vue-plugin-pages
 Roteamento baseado em arquivos para Vue 3 e Vite. https://github.com/hannoeru/vite-plugin-pages
 
+### unplugin-vue-components
+Auto importação de componentes para Vue. https://github.com/antfu/unplugin-vue-components
+
 
 ## Para configurar o VSCODE, edite settings.json e acresecente as linhas a seguir:
 
